@@ -1868,7 +1868,7 @@
 	},
 	{
 		"abr": "smokeleafjoint",
-		"price": 18,
+		"price": 42,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint"
 	},
@@ -1880,7 +1880,7 @@
 	},
 	{
 		"abr": "smokepopbelt",
-		"price": 277,
+		"price": 420,
 		"category": "Utility",
 		"defname": "Apparel_SmokepopBelt"
 	},
@@ -2540,7 +2540,7 @@
 	},
 	{
 		"abr": "smokelauncher",
-		"price": 633,
+		"price": 420,
 		"category": "Ranged weapons",
 		"defname": "Gun_SmokeLauncher"
 	},
@@ -3248,7 +3248,7 @@
 	},
 	{
 		"abr": "iedsmoketrap",
-		"price": 192,
+		"price": 420,
 		"category": "Security",
 		"defname": "TrapIED_Smoke"
 	},
@@ -3422,7 +3422,7 @@
 	},
 	{
 		"abr": "smokeshell",
-		"price": 92,
+		"price": 42,
 		"category": "Mortar shells",
 		"defname": "Shell_Smoke"
 	},
